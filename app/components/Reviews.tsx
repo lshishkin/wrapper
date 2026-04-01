@@ -18,7 +18,7 @@ export default function Reviews() {
 
             </div>
 
-            <p className="italic">"Отличное обучение, много практики. Теперь зарабатываю в 2 раза больше!"</p>
+            <p className="italic">&quot;Отличное обучение, много практики. Теперь зарабатываю в 2 раза больше!&quot;</p>
 
             <p className="font-semibold mt-2">Алексей, Екатеринбург</p>
 
@@ -32,7 +32,7 @@ export default function Reviews() {
 
             </div>
 
-            <p className="italic">"Преподаватели настоящие профессионалы. Рекомендую всем!"</p>
+            <p className="italic">&quot;Преподаватели настоящие профессионалы. Рекомендую всем!&quot;</p>
 
             <p className="font-semibold mt-2">Мария, Челябинск</p>
 
@@ -46,7 +46,7 @@ export default function Reviews() {
 
             </div>
 
-            <p className="italic">"Открыл свою студию благодаря этому курсу. Спасибо!"</p>
+            <p className="italic">&quot;Открыл свою студию благодаря этому курсу. Спасибо!&quot;</p>
 
             <p className="font-semibold mt-2">Дмитрий, Екатеринбург</p>
 
