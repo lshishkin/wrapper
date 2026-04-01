@@ -2,15 +2,17 @@ export default function Contact() {
 
   return (
 
-    <section className="py-16">
+    <section className="section-bg-alt py-16">
 
       <div className="container mx-auto px-4">
 
-        <h2 className="text-3xl font-bold text-center mb-12">Запишитесь на курс сейчас</h2>
+        <h2 className="text-4xl font-bold text-center mb-12 bg-gradient-to-r from-blue-400 to-indigo-400 bg-clip-text text-transparent">
+          Запишитесь на курс сейчас
+        </h2>
 
         <div className="max-w-2xl mx-auto">
 
-          <form className="bg-white p-8 rounded-lg shadow-md">
+          <form className="card">
 
             <div className="mb-4">
 

@@ -26,9 +26,9 @@ export default function RootLayout({
 
   return (
 
-    <html lang="ru">
+    <html lang="ru" className="dark">
 
-      <body className={inter.className}>{children}</body>
+      <body className="bg-slate-900 text-white min-h-screen">{children}</body>
 
     </html>
 
